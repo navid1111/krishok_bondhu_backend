@@ -37,13 +37,7 @@ venv.bak/
 *.swo
 .DS_Store
 
-# Model files
-*.h5
-*.keras
-*.pkl
-*.pth
-*.onnx
-model/
+
 
 # Logs
 *.log
